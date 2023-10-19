@@ -2,7 +2,7 @@
 
 Engage in a unique chatbot experience that immerses users in romantic conversations tailored to their mood.
 
-![Romantic Chatbot Screenshot](https://i.imgur.com/oNv4DvH.png)
+![Romantic Chatbot Screenshot](https://i.imgur.com/GrHXEcV.png)
 
 ## Features
 - **User Personalization**: Users can select their gender and choose the chatbot's mood (e.g., Flirty, Shy, Sweet, Passionate).
